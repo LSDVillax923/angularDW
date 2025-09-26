@@ -1,0 +1,2 @@
+npm i ngx-bootstrap --save
+npm i bootstrap-icons  --save  
